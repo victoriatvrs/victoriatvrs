@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, i'm victoria!
+### cs student at puc-sp
 
 <!--
 **victoriatvrs/victoriatvrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
